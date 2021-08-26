@@ -1,0 +1,402 @@
+{
+  "apartments": [
+    {
+      "apartmentsType": "lux",
+      "apartmentsNumber": 232,
+      "numberOfPersons": 4,
+      "id": 0
+    },
+    {
+      "apartmentsType": "standard",
+      "apartmentsNumber": 392,
+      "numberOfPersons": 4,
+      "id": 1
+    },
+    {
+      "apartmentsType": "standard",
+      "apartmentsNumber": 374,
+      "numberOfPersons": 3,
+      "id": 2
+    },
+    {
+      "apartmentsType": "standard",
+      "apartmentsNumber": 67,
+      "numberOfPersons": 2,
+      "id": 3
+    },
+    {
+      "apartmentsType": "lux",
+      "apartmentsNumber": 10,
+      "numberOfPersons": 5,
+      "id": 4
+    },
+    {
+      "apartmentsType": "comfortable",
+      "apartmentsNumber": 9,
+      "numberOfPersons": 1,
+      "id": 5
+    },
+    {
+      "apartmentsType": "comfortable",
+      "apartmentsNumber": 189,
+      "numberOfPersons": 4,
+      "id": 6
+    },
+    {
+      "apartmentsType": "standard",
+      "apartmentsNumber": 20,
+      "numberOfPersons": 2,
+      "id": 7
+    },
+    {
+      "apartmentsType": "standard",
+      "apartmentsNumber": 80,
+      "numberOfPersons": 5,
+      "id": 8
+    },
+    {
+      "apartmentsType": "lux",
+      "apartmentsNumber": 191,
+      "numberOfPersons": 2,
+      "id": 9
+    }
+  ],
+  "rentInfo": [
+    {
+      "id": "6127abbc8b2876fb0aa4bba6",
+      "apartmentId": 0,
+      "rentInterval": {
+        "start": 1630127280111,
+        "end": 1630706036525
+      },
+      "personInfo": {
+        "firstName": "Dillon",
+        "lastName": "Stevens",
+        "email": "dillonstevens@lovepad.com",
+        "phone": "+7 (918) 528-3811"
+      },
+      "additionalPersons": 3,
+      "persons": 3,
+      "tariff": "comfortable_2",
+      "percentageDiscount": 15,
+      "moneyDiscount": 0,
+      "price": 83739,
+      "comment": "voluptate"
+    },
+    {
+      "id": "6127abbc4b327e6b25759f6c",
+      "apartmentId": 2,
+      "rentInterval": {
+        "start": 1630229173762,
+        "end": 1630750967879
+      },
+      "personInfo": {
+        "firstName": "Robles",
+        "lastName": "Leonard",
+        "email": "roblesleonard@lovepad.com",
+        "phone": "+7 (830) 497-2200"
+      },
+      "additionalPersons": 2,
+      "persons": 1,
+      "tariff": "comfortable_2",
+      "percentageDiscount": 28,
+      "moneyDiscount": 0,
+      "price": 67441,
+      "comment": "nisi quis"
+    },
+    {
+      "id": "6127abbc1509df7bb1bc8fcb",
+      "apartmentId": 4,
+      "rentInterval": {
+        "start": 1630194086273,
+        "end": 1630686514305
+      },
+      "personInfo": {
+        "firstName": "Gabrielle",
+        "lastName": "Walton",
+        "email": "gabriellewalton@lovepad.com",
+        "phone": "+7 (911) 487-2946"
+      },
+      "additionalPersons": 4,
+      "persons": 2,
+      "tariff": "comfortable_3",
+      "percentageDiscount": 15,
+      "moneyDiscount": 0,
+      "price": 25395,
+      "comment": "duis"
+    },
+    {
+      "id": "6127abbcc6b1c8fece565374",
+      "apartmentId": 5,
+      "rentInterval": {
+        "start": 1630096925699,
+        "end": 1630695007408
+      },
+      "personInfo": {
+        "firstName": "Desiree",
+        "lastName": "Hart",
+        "email": "desireehart@lovepad.com",
+        "phone": "+7 (917) 524-2991"
+      },
+      "additionalPersons": 1,
+      "persons": 2,
+      "tariff": "standard_2",
+      "percentageDiscount": 24,
+      "moneyDiscount": 0,
+      "price": 3274,
+      "comment": "exercitation"
+    },
+    {
+      "id": "6127aee0165a8d02d7ef70a1",
+      "apartmentId": 9,
+      "rentInterval": {
+        "start": 1631912823263,
+        "end": 1632468846896
+      },
+      "personInfo": {
+        "firstName": "Violet",
+        "lastName": "Anderson",
+        "email": "violetanderson@lovepad.com",
+        "phone": "+7 (843) 592-2526"
+      },
+      "additionalPersons": 2,
+      "persons": 2,
+      "tariff": "comfortable_3",
+      "percentageDiscount": 42,
+      "moneyDiscount": 0,
+      "price": 51525,
+      "comment": "nisi"
+    },
+    {
+      "id": "6127aee0a8aa72aa462d86b0",
+      "apartmentId": 4,
+      "rentInterval": {
+        "start": 1632026372608,
+        "end": 1632739201934
+      },
+      "personInfo": {
+        "firstName": "Mooney",
+        "lastName": "Hernandez",
+        "email": "mooneyhernandez@lovepad.com",
+        "phone": "+7 (824) 519-3452"
+      },
+      "additionalPersons": 1,
+      "persons": 3,
+      "tariff": "comfortable_2",
+      "percentageDiscount": 0,
+      "moneyDiscount": 0,
+      "price": 13639,
+      "comment": "aliqua"
+    },
+    {
+      "id": "6127afae4815eb9cc7aeb00e",
+      "apartmentId": 2,
+      "rentInterval": {
+        "start": 1631137647295,
+        "end": 1631866943214
+      },
+      "personInfo": {
+        "firstName": "Griffin",
+        "lastName": "Macias",
+        "email": "griffinmacias@lovepad.com",
+        "phone": "+7 (935) 493-2520"
+      },
+      "additionalPersons": 1,
+      "persons": 1,
+      "tariff": "standard_2",
+      "percentageDiscount": 17,
+      "moneyDiscount": 0,
+      "price": 58147,
+      "comment": "aliquip"
+    },
+    {
+      "id": "6127afae895f1b3b7d4a814a",
+      "apartmentId": 3,
+      "rentInterval": {
+        "start": 1631333405387,
+        "end": 1631987924933
+      },
+      "personInfo": {
+        "firstName": "Humphrey",
+        "lastName": "Travis",
+        "email": "humphreytravis@lovepad.com",
+        "phone": "+7 (898) 588-3958"
+      },
+      "additionalPersons": 4,
+      "persons": 2,
+      "tariff": "standard_3",
+      "percentageDiscount": 25,
+      "moneyDiscount": 0,
+      "price": 16024,
+      "comment": "ut"
+    },
+    {
+      "id": "6127b002b75417fb05524f54",
+      "apartmentId": 5,
+      "rentInterval": {
+        "start": 1631804704244,
+        "end": 1632184645411
+      },
+      "personInfo": {
+        "firstName": "Ava",
+        "lastName": "Russo",
+        "email": "avarusso@lovepad.com",
+        "phone": "+7 (875) 559-2053"
+      },
+      "additionalPersons": 2,
+      "persons": 2,
+      "tariff": "standard_3",
+      "percentageDiscount": 39,
+      "moneyDiscount": 0,
+      "price": 31488,
+      "comment": "cupidatat"
+    },
+    {
+      "id": "6127b2d58cad5f1f54b3831e",
+      "apartmentId": 6,
+      "rentInterval": {
+        "start": 1633380341262,
+        "end": 1634316332415
+      },
+      "personInfo": {
+        "firstName": "Garrison",
+        "lastName": "Patel",
+        "email": "garrisonpatel@lovepad.com",
+        "phone": "+7 (853) 598-2653"
+      },
+      "additionalPersons": 1,
+      "persons": 3,
+      "tariff": "lux_5",
+      "percentageDiscount": 21,
+      "moneyDiscount": 0,
+      "price": 65546,
+      "comment": "quis"
+    },
+    {
+      "id": "6127b2d5e381e062ada1a23e",
+      "apartmentId": 8,
+      "rentInterval": {
+        "start": 1633236499786,
+        "end": 1633978501610
+      },
+      "personInfo": {
+        "firstName": "Odessa",
+        "lastName": "Wiggins",
+        "email": "odessawiggins@lovepad.com",
+        "phone": "+7 (886) 480-3990"
+      },
+      "additionalPersons": 2,
+      "persons": 2,
+      "tariff": "comfortable_3",
+      "percentageDiscount": 24,
+      "moneyDiscount": 0,
+      "price": 55724,
+      "comment": "pariatur"
+    },
+    {
+      "id": "6127b2d54f7a874407d0932f",
+      "apartmentId": 9,
+      "rentInterval": {
+        "start": 1633077327848,
+        "end": 1634332036775
+      },
+      "personInfo": {
+        "firstName": "Sheena",
+        "lastName": "Roman",
+        "email": "sheenaroman@lovepad.com",
+        "phone": "+7 (936) 502-2743"
+      },
+      "additionalPersons": 4,
+      "persons": 2,
+      "tariff": "standard_3",
+      "percentageDiscount": 34,
+      "moneyDiscount": 0,
+      "price": 69666,
+      "comment": "qui"
+    },
+    {
+      "id": "6127b2d54b34528a79385885",
+      "apartmentId": 2,
+      "rentInterval": {
+        "start": 1633291356307,
+        "end": 1633875566422
+      },
+      "personInfo": {
+        "firstName": "Vargas",
+        "lastName": "Boone",
+        "email": "vargasboone@lovepad.com",
+        "phone": "+7 (878) 413-2839"
+      },
+      "additionalPersons": 5,
+      "persons": 2,
+      "tariff": "comfortable_3",
+      "percentageDiscount": 40,
+      "moneyDiscount": 0,
+      "price": 28960,
+      "comment": "pariatur"
+    },
+    {
+      "id": "6127b3ce90b3817f2720022e",
+      "apartmentId": 0,
+      "rentInterval": {
+        "start": 1635404096050,
+        "end": 1637684725861
+      },
+      "personInfo": {
+        "firstName": "Hollie",
+        "lastName": "Mcintyre",
+        "email": "holliemcintyre@lovepad.com",
+        "phone": "+7 (934) 498-3807"
+      },
+      "additionalPersons": 5,
+      "persons": 2,
+      "tariff": "lux_5",
+      "percentageDiscount": 25,
+      "moneyDiscount": 0,
+      "price": 47899,
+      "comment": "minim"
+    },
+    {
+      "id": "6127b3ce4dfb0095ab23ebcb",
+      "apartmentId": 4,
+      "rentInterval": {
+        "start": 1635183360234,
+        "end": 1637422538629
+      },
+      "personInfo": {
+        "firstName": "Tonia",
+        "lastName": "Fulton",
+        "email": "toniafulton@lovepad.com",
+        "phone": "+7 (964) 592-2555"
+      },
+      "additionalPersons": 1,
+      "persons": 2,
+      "tariff": "lux_5",
+      "percentageDiscount": 49,
+      "moneyDiscount": 0,
+      "price": 34548,
+      "comment": "irure"
+    },
+    {
+      "id": "6127b3ceab01f4ae11288f71",
+      "apartmentId": 8,
+      "rentInterval": {
+        "start": 1635218427862,
+        "end": 1637345523792
+      },
+      "personInfo": {
+        "firstName": "Banks",
+        "lastName": "Huber",
+        "email": "bankshuber@lovepad.com",
+        "phone": "+7 (813) 531-2002"
+      },
+      "additionalPersons": 5,
+      "persons": 3,
+      "tariff": "comfortable_3",
+      "percentageDiscount": 10,
+      "moneyDiscount": 0,
+      "price": 6099,
+      "comment": "non"
+    }
+  ]
+}
